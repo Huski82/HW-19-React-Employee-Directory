@@ -11,7 +11,7 @@ class App extends Component {
         image: "",
         name: "Emma Huski",
         phone: "(510) 123-4567",
-        email: "ehuski@gmail.com.com",
+        email: "ehuski@gmail.com",
         dob: "09-13-2014"
       },
       {
@@ -20,7 +20,7 @@ class App extends Component {
         name: "Yasamin Nawabi",
         phone: "(415) 123-1212",
         email: "ynawabi@gmail.com",
-        dob: "02-05-1981"
+        dob: "02-06-1981"
       },
       {
         id: 3,
