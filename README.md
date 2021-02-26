@@ -5,6 +5,10 @@
 <img src = "/public/img/Directory1.png" style="width: 600px:">
 <img src = "/public/img/Directory2.png" style="width: 600px:">
 
+Deployed app via React:
+
+<a href="https://huski82.github.io/HW-19-React-Employee-Directory/
+
 ## Description
 
 This application requires the use of React for creating individual components, managing component state, and responding to user events.
@@ -22,7 +26,8 @@ This application requires the use of React for creating individual components, m
 To create this application, you would have to run `npx create-react "name of project"` which will provide you a npm dependencies such as node_modules & package-lock.json and SRC files for REACT. However, if users only need to install package.json they can run `npm init -y` on the command-line. 
 
 `React.js` 
-`VSCode` 
+`VSCode`
+`Bootstrap`
 
 
 ## User Story
