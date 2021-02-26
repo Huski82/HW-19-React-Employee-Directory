@@ -6,7 +6,7 @@ const user = (props) => {
         <div className='container'>
             <div className='row User'>
                 <div className='col-sm Info'>
-                    <img src={props.image}></img>
+                <img src={props.image}></img>
                 </div>
                 <div className='col-sm Info'>
                     <p>{props.name}</p>

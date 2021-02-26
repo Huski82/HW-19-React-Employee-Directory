@@ -8,7 +8,7 @@ class App extends Component {
     users: [
       {
         id: 1,
-        image: "",
+        image: "./img/girl.png",
         name: "Emma Huski",
         phone: "(510) 123-4567",
         email: "ehuski@gmail.com",
@@ -16,7 +16,7 @@ class App extends Component {
       },
       {
         id: 2,
-        image: "",
+        image: "./img/guy1.png",
         name: "Yasamin Nawabi",
         phone: "(415) 123-1212",
         email: "ynawabi@gmail.com",
@@ -24,7 +24,7 @@ class App extends Component {
       },
       {
         id: 3,
-        image: "",
+        image: "./img/guy2.png",
         name: "Dirk Diggler",
         phone: "(619) 123-6869",
         email: "bdirk@gmail.com",
@@ -75,3 +75,4 @@ class App extends Component {
 }
 
 export default App;
+
