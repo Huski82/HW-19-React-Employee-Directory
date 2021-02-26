@@ -7,7 +7,7 @@
 
 Deployed app via React:
 
-<a href="https://huski82.github.io/HW-19-React-Employee-Directory/
+<a href="https://huski82.github.io/HW-19-React-Employee-Directory/">Employee Directory</a>
 
 ## Description
 
